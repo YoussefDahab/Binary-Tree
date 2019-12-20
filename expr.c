@@ -1,8 +1,5 @@
 /* Author : Youssef Dahab
-macID : dahaby
-student number : 400114524
-File name: expr.c
-Assignment 3 */
+File name: expr.c */
 
 #include "expr.h"
 #include <stdio.h>
